@@ -1,4 +1,5 @@
 import sys
+from src.logger import logging
 
 ## function to generate a detailed error message
 def error_message_detail(error, error_detail: sys) -> str:
