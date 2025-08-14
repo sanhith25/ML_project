@@ -7,3 +7,4 @@ dill
 xgboost
 catboost
 flask
+gunicorn
